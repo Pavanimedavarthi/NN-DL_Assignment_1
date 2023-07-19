@@ -1,4 +1,4 @@
-# NN-DL_Assignment_1
+# NN-DL_Summer2_ Assignment
 Name: Pavani_Medavarthi and
 Student ID: 700741643
 
